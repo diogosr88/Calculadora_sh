@@ -34,3 +34,41 @@ python calculadora.sh
 
 6\. O resultado será exibido na tela
 
+
+
+
+
+\# Explicação do código
+
+
+
+O código é uma calculadora simples feita em Python.
+
+
+
+\### Como funciona passo a passo
+
+
+
+1\. O programa pede para o usuário digitar dois números
+
+2\. Depois pergunta qual operação deseja fazer: soma (+), subtração (-), multiplicação (\*) ou divisão (/)
+
+3\. O programa verifica qual operação foi escolhida
+
+4\. Calcula o resultado e mostra na tela
+
+
+
+\### Operações disponíveis
+
+
+
+\- Soma (+): soma os dois números
+
+\- Subtração (-): subtrai o segundo número do primeiro
+
+\- Multiplicação (\*): multiplica os dois números
+
+\- Divisão (/): divide o primeiro número pelo segundo
+
